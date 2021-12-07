@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8401325616716188181
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 85228992412637680, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228992412637680, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228992412637680, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228992412637680, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228992412637680, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228992412637680, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228992412637680, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228992412637680, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228992412637680, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228992412637680, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228992412637680, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228992412637680, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228992412637680, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228992412637680, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228992412637680, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228992412637680, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228992412637680, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228992412637680, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228992412637680, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228992412637680, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228992412637680, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228992412637681, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_Name
+      value: TankAnt
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228992412637681, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228992923635790, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 85228993055782469, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: b09506a4071dd4049a561d2368998b22, type: 3}
+    m_RemovedComponents:
+    - {fileID: 85228992923635786, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+--- !u!1 &8482893233679309403 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 85228992923635790, guid: 2c1eccb954f1c6848bc041ba8380fc50, type: 3}
+  m_PrefabInstance: {fileID: 8401325616716188181}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7178654601797479154
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8482893233679309403}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46fbe12271c8b3e4889f5202edfa2822, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 0
+  health: 0
+  animator: {fileID: 0}
+  moveSpeed: 20
+  whatStopsMovement:
+    serializedVersion: 2
+    m_Bits: 0
+  boxLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  playerLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  questionLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  getPushed: 0
+  startingPosition: 
+  startingVectPosition: {x: 0, y: 0, z: 0}
+  gameCanvas: {fileID: 0}
+  movePoint: {fileID: 0}
+  antName: Ant
+  peas: []
+  foodCost: 0
+  isContainer: 0
+  antContained: {fileID: 0}
+  foodCountDown: 3
+  foodObj: {fileID: 0}

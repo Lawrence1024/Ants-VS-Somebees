@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pea
+  - Ants
+  - Bees
+  - Boxes
+  - Buttons
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Perimeter
+  - Bees
+  - Ants
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GameLayer
+    uniqueID: 3542018371
+    locked: 0
+  - name: MainMenu
+    uniqueID: 1680520531
+    locked: 0
+  - name: GameLevelLayer
+    uniqueID: 260854501
+    locked: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb838362ef49a24582bdd77f8c29363, type: 3}
+  m_Name: Ground
+  m_EditorClassIdentifier: 
+  tiles:
+  - {fileID: 11400000, guid: 2a11f085d68483e4c83f4f4e554f2c30, type: 2}
+  - {fileID: 11400000, guid: ec28d8108d25cd146af79f0120f4bffb, type: 2}
+  walkingSpeed: 2
+  poison: 0
+  isHive: 0
+  ant: {fileID: 0}
+  bees: []
